@@ -1,0 +1,10 @@
+*customization: -color
+XTerm.*.colorMode: on
+XTerm.*.dynamicColors: on
+xterm.*.loginShell: true
+xterm.*.scrollBar: false
+xterm.*faceName: Mono
+xterm.*faceSize: 6
+xterm.*.visualBell: true
+xterm.*.background: black
+xterm.*.foreground: white
